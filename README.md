@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandra Sekhar</h1>
-<h3 align="center">A passionate frontend developer , blockchain and latest technologies</h3>
+<h3 align="center">A passionate Full Stack Web developer... </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekharchandra21&label=Profile%20views&color=0e75b6&style=flat" alt="sekharchandra21" /> </p>
 
