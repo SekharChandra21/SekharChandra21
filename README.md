@@ -30,7 +30,7 @@
 - Implemented data augmentation and optimized using the Adam optimizer.
 - Achieved high accuracy and evaluated performance using confusion matrix and accuracy metrics.
 
-### 🔹 [Real-Time Chat Application](https://github.com/SekharChandra21/Chatty-App.git)
+### 🔹 [Real-Time Chat Application](https://github.com/SekharChandra21/MERN-Stack-Chat_App.git)
 - Built a real-time chat application using the MERN stack with Socket.IO for instant messaging.
 - 💳 Implemented user authentication, private chats, and real-time message updates. Designed a responsive UI and managed state efficiently with React hooks and Context API.
 - The backend handles message storage, user sessions, and secure communication via JWT.
