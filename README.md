@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandra Sekhar</h1>
-<h3 align="center">A passionate Full Stack Web developer and Devops and AI Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Web developer, Devops and AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekharchandra21&label=Profile%20views&color=0e75b6&style=flat" alt="sekharchandra21" /> </p>
 
@@ -9,7 +9,8 @@
 - Hi there! I'm Aripaka Chandra Sekhar, a passionate and self-driven software developer from Andhra Pradesh, India. 
 - Currently Pursuing final year Integrated M.Tech with CGPA(8.97).
 - I love building full-stack web applications, solving real-world problems with code, and constantly learning new technologies.<br><br>
-- 🔧 I work with technologies like React.js, Node.js, Next.js, Tailwind CSS, Spring Boot, MySQL, and Machine Learning tools like Python, Scikit-learn, TensorFlow, and ResNet/VGG models.
+- 🔧 I work with technologies like React.js, Node.js, Next.js, Tailwind CSS, Spring Boot, MySQL, Jenkins, Docker and Machine Learning tools like Python, Scikit-learn, TensorFlow, and ResNet/VGG models.
+- I have explored GEN_AI tools such as HuggingFace, LangChain, OpenAI, Groq and currently learning about Model Context Protocol (MCP)
 
 
 ## 🌐 Socials:
