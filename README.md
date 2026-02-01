@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 - Hi there! I'm Aripaka Chandra Sekhar, a passionate and self-driven software developer from Andhra Pradesh, India. 
-- Currently Pursuing final year Integrated M.Tech with CGPA(8.97).
+- Currently Pursuing final year Integrated M.Tech with CGPA(9.05).
 - I love building full-stack web applications, solving real-world problems with code, and constantly learning new technologies.<br><br>
 - 🔧 I work with technologies like React.js, Node.js, Next.js, Tailwind CSS, Spring Boot, MySQL, Jenkins, Docker and Machine Learning tools like Python, Scikit-learn, TensorFlow, and ResNet/VGG models.
 - I have explored GEN_AI tools such as HuggingFace, LangChain, OpenAI, Groq and currently learning about Model Context Protocol (MCP)
